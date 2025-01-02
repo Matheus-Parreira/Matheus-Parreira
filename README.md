@@ -4,6 +4,9 @@ Olá, tudo bem?
 
 Meu nome é Matheus Henrique Parreira, tenho 19 anos, e sou de Ribeirão Preto (SP); estou atualmente na terceira etapa do curso de Engenharia da Computação na Universidade de Ribeirão Preto (UNAERP), e de olho em oportunidades de adiquirir experiência na área a fim de me preparar para o mercado de trabalho.
 
+<div align="center">
+  <img width=50% src=img/img.jpg/>
+</div>
 
 Desde pequeno, sempre tive contato com a área da computação de uma forma ou de outra, e ao longo dos anos desenvolvi um grande interesse em tudo o que a envolve, — em especial hardware e games — interesse esse que foi fundamental para me motivar a buscar uma fomação nela.
 
